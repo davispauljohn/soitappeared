@@ -1,19 +1,9 @@
-<<<<<<< HEAD
-# soitappeared
-=======
 # soitappeared
 
-To install dependencies:
-
 ```bash
-bun install
+bun install #install deps
 ```
 
-To run:
-
 ```bash
-bun run index.ts
-```
+bun run index.ts #run
 
-This project was created using `bun init` in bun v1.2.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
->>>>>>> eb6042e (Init repo)
